@@ -46,7 +46,7 @@ export default function Home() {
   return (
     <div style={{float: 'left'}}>
       <FacebookShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         quote={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
         hashtag={'#NextShare'}
       >
@@ -55,7 +55,7 @@ export default function Home() {
         </div>
       </FacebookShareButton>
       <LineShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
       >
         <div style={{marginRight: 10, width: 32, height: 32}}>
@@ -63,7 +63,7 @@ export default function Home() {
         </div>
       </LineShareButton>
       <PinterestShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         media={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
       >
         <div style={{marginRight: 10, width: 32, height: 32}}>
@@ -71,7 +71,7 @@ export default function Home() {
         </div>
       </PinterestShareButton>
       <RedditShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
         windowWidth={660}
         windowHeight={460}
@@ -81,7 +81,7 @@ export default function Home() {
         </div>
       </RedditShareButton>
       <TelegramShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
       >
         <div style={{marginRight: 10, width: 32, height: 32}}>
@@ -89,7 +89,7 @@ export default function Home() {
         </div>
       </TelegramShareButton>
       <TumblrShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
       >
         <div style={{marginRight: 10, width: 32, height: 32}}>
@@ -97,7 +97,7 @@ export default function Home() {
         </div>
       </TumblrShareButton>
       <TwitterShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
       >
         <div style={{marginRight: 10, width: 32, height: 32}}>
@@ -105,7 +105,7 @@ export default function Home() {
         </div>
       </TwitterShareButton>
       <ViberShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
       >
         <div style={{marginRight: 10, width: 32, height: 32}}>
@@ -113,7 +113,7 @@ export default function Home() {
         </div>
       </ViberShareButton>
       <WeiboShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
         // image={`${String(window.location)}/${exampleImage}`}
       >
@@ -122,7 +122,7 @@ export default function Home() {
         </div>
       </WeiboShareButton>
       <WhatsappShareButton
-        url={'https://github.com/bunlong/next-share'}
+        url={'https://github.com/ExtisOne/next-social-sharer'}
         title={'Testing - next-share is a social share buttons plugin for Next.js, Create React App, Gatsby.js as well as React apps.'}
         separator="::"
       >
