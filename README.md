@@ -81,7 +81,7 @@ import {
 | windowWidth | number | 550 | Opened window width. | ❌ |
 | windowHeight | number | 400 | Opened window height. | ❌ |
 
-#### 📖 [FacebookIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [FacebookIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Line
 
@@ -111,7 +111,7 @@ import {
 | windowWidth | number | 500 | Opened window width. | ❌ |
 | windowHeight | number | 500 | Opened window height. | ❌ |
 
-#### 📖 [LineIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [LineIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Pinterest
 
@@ -142,7 +142,7 @@ import {
 | windowWidth | number | 1000 | Opened window width. | ❌ |
 | windowHeight | number | 730 | Opened window height. | ❌ |
 
-#### 📖 [PinterestIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [PinterestIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Reddit
 
@@ -172,7 +172,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 460 | Opened window height. | ❌ |
 
-#### 📖 [RedditIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [RedditIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Telegram
 
@@ -202,7 +202,7 @@ import {
 | windowWidth | number | 550 | Opened window width. | ❌ |
 | windowHeight | number | 400 | Opened window height. | ❌ |
 
-#### 📖 [TelegramIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [TelegramIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Tumblr
 
@@ -235,7 +235,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 460 | Opened window height. | ❌ |
 
-#### 📖 [TumblrIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [TumblrIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Twitter
 
@@ -268,7 +268,7 @@ import {
 | windowWidth | number | 550 | Opened window width. | ❌ |
 | windowHeight | number | 400 | Opened window height. | ❌ |
 
-#### 📖 [TwitterIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [TwitterIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Viber
 
@@ -299,7 +299,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 460 | Opened window height. | ❌ |
 
-#### 📖 [ViberIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [ViberIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Weibo
 
@@ -331,7 +331,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 550 | Opened window height. | ❌ |
 
-#### 📖 [WeiboIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [WeiboIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Whatsapp
 
@@ -363,7 +363,7 @@ import {
 | windowWidth | number | 550 | Opened window width. | ❌ |
 | windowHeight | number | 400 | Opened window height. | ❌ |
 
-#### 📖 [WhatsappIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [WhatsappIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Linkedin
 
@@ -392,7 +392,7 @@ import {
 | windowWidth | number | 750 | Opened window width. | ❌ |
 | windowHeight | number | 600 | Opened window height. | ❌ |
 
-#### 📖 [LinkedinIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [LinkedinIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 VK
 
@@ -425,7 +425,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 460 | Opened window height. | ❌ |
 
-#### 📖 [VKIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [VKIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Mailru
 
@@ -457,7 +457,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 460 | Opened window height. | ❌ |
 
-#### 📖 [MailruIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [MailruIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Livejournal
 
@@ -489,7 +489,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 460 | Opened window height. | ❌ |
 
-#### 📖 [LivejournalIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [LivejournalIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Workplace
 
@@ -520,7 +520,7 @@ import {
 | windowWidth | number | 550 | Opened window width. | ❌ |
 | windowHeight | number | 400 | Opened window height. | ❌ |
 
-#### 📖 [WorkplaceIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [WorkplaceIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Pocket
 
@@ -550,7 +550,7 @@ import {
 | windowWidth | number | 500 | Opened window width. | ❌ |
 | windowHeight | number | 500 | Opened window height. | ❌ |
 
-#### 📖 [PocketIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [PocketIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Instapaper
 
@@ -581,7 +581,7 @@ import {
 | windowWidth | number | 500 | Opened window width. | ❌ |
 | windowHeight | number | 500 | Opened window height. | ❌ |
 
-#### 📖 [InstapaperIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [InstapaperIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Hatena
 
@@ -611,7 +611,7 @@ import {
 | windowWidth | number | 660 | Opened window width. | ❌ |
 | windowHeight | number | 460 | Opened window height. | ❌ |
 
-#### 📖 [HatenaIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [HatenaIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 FacebookMessenger
 
@@ -643,7 +643,7 @@ import {
 | windowWidth | number | 1000 | Opened window width. | ❌ |
 | windowHeight | number | 820 | Opened window height. | ❌ |
 
-#### 📖 [FacebookMessengerIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [FacebookMessengerIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ### 🎀 Email
 
@@ -674,7 +674,7 @@ import {
 | body | string |  |  | ❌ |
 | separator | string |  |  | ❌ |
 
-#### 📖 [EmailIcon props](https://github.com/Bunlong/next-share#-icons-props)
+#### 📖 [EmailIcon props](https://github.com/ExtisOne/next-social-sharer#-icons-props)
 
 ## 📚 Icons props
 
