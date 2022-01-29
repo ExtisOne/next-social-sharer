@@ -38,9 +38,7 @@ export function CustomWindow(
           onClose(dialog);
         }
       } catch (e) {
-        /* eslint-disable no-console */
         console.error(e);
-        /* eslint-enable no-console */
       }
     }, 1000);
   }
