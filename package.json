@@ -1,6 +1,6 @@
 {
   "name": "next-social-sharer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Social media share buttons for your next React apps.",
   "author": "Extis ehf. <info@ext.is",
   "license": "MIT",
@@ -14,7 +14,7 @@
   "keywords": [
     "react",
     "reactjs",
-    "next-share",
+    "next-social-sharer",
     "share-buttons",
     "social-share-buttons",
     "social-media-share-buttons"
